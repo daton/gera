@@ -11,7 +11,7 @@ public class ControladorInicio {
         float edad=30;
         int dias=365;
         float edadendias=edad*dias;
-        return "mi edad en dias es "+edadendias;
+        return "La edad del gerardito en dias es eda es "+edadendias;
     }
 
 
